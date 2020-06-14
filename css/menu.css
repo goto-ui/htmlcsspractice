@@ -1,0 +1,23 @@
+#menu{
+  background-color: #123;
+  min-height: 100vh;
+}
+.menu-content{
+  max-width: 560px;
+  margin-top: 10%;
+}
+.menu-content,
+.page-title{
+  text-align: center;
+}
+.menu-contents p{
+  font-size: 1.125rem;
+  margin: 10px 0 0 ;
+}
+
+/*モバイル版*/
+@media (max-width: 600px){
+  .menu-contents {
+    margin-top: 20%;
+  }
+}
