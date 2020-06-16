@@ -62,12 +62,12 @@ iframe{
   padding: 4% 0;
 }
 #sns .wrapper{
-  display; flex;
+  display: flex;
   justify-content: space-between;
 }
 #sns .sub-title{
   margin-bottom: 30px;
 }
 .sns-box{
-  width: 100%;
+  width: 30%;
 }
